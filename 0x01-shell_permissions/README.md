@@ -4,4 +4,5 @@
 3. This script changes ownership of the file hello to Betty
 4. This script creates an empty file called hello.
 5. This script gives execute permission to the file Hello
-
+6. This script gives execute permissions to owner and groups, and read permission to others.
+ 
