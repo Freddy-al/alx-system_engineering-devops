@@ -5,4 +5,4 @@
 4. This script creates an empty file called hello.
 5. This script gives execute permission to the file Hello
 6. This script gives execute permissions to owner and groups, and read permission to others.
- 
+7. This script gives execute permission to all.  
