@@ -9,4 +9,6 @@
 8. This script gives all permissions to others and none to owner and group
 10. This script sets mirrors the permissions in olleh to hello
 11. This script adds execute permissions to all subdirectories in the current directory.
-12. This script creats a directory with 751 permissions.  
+12. This script creats a directory with 751 permissions.
+13. This script changes the file's group owner.
+  
