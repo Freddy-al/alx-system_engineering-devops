@@ -7,4 +7,5 @@
 6. This script gives execute permissions to owner and groups, and read permission to others.
 7. This script gives execute permission to all.
 8. This script gives all permissions to others and none to owner and group
-10. This script sets mirrors the permissions in olleh to hello  
+10. This script sets mirrors the permissions in olleh to hello
+11. This script adds execute permissions to all subdirectories in the current directory.  
