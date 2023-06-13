@@ -8,3 +8,4 @@
 7. 7-file: 
 8. 
 9. 9-duplicate_last_line: duplicates the last line of the file iacta.
+10. 10-no_more_js: deletes all files with .js
