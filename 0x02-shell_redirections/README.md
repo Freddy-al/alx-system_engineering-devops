@@ -22,5 +22,5 @@
 22. 22-users_and_homes: displays all users and their home directories, sorted by users.
 23. 100-empty_casks: finds all empty files and directories in the current directory and all sub-directories. 
 24. 
-25.
-26. 
+25.102-acrostic: acrostic
+26.  
